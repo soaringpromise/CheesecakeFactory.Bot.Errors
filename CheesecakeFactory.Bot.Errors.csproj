@@ -16,6 +16,9 @@
         </Description>
         <PackageTags>exceptions;error-handling;logging;dotnet;bots</PackageTags>
         <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryType>git</RepositoryType>
+        <RepositoryUrl>https://github.com/soaringpromise/CheesecakeFactory.Bot.Errors</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>

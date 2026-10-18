@@ -55,4 +55,4 @@ Installation instructions will be added once the package is published.
 
 ## License
 
-License information will be added before the first public release.
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
